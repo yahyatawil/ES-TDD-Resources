@@ -2,11 +2,11 @@
 A list of resources to learn about Test Driver Development in Embedded Systems🤖📟.  
 
 # Table of Contents
-- [📺Videos](##Videos)
-- [📝Tutorials&Articles](##Tutorials&Articles)
-- [📚Books](##Books)
-- [📊Researches](##Researches)
-- [💬Community discussions](##Community_discussions)
+- 📺[Videos](##Videos)
+- 📝[Tutorials&Articles](##Tutorials&Articles)
+- 📚[Books](##Books)
+- 📊[Researches](##Researches)
+- 💬[Community discussions](##Community_discussions)
 
 
 ## Videos
